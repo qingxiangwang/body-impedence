@@ -1,0 +1,2 @@
+module dds (output sin_wave,input system_clk,input FT_Word);
+endmodule
