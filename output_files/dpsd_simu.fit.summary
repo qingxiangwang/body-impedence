@@ -1,14 +1,14 @@
-Fitter Status : Successful - Wed Sep 09 20:55:43 2020
+Fitter Status : Successful - Sun Sep 13 19:27:33 2020
 Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
 Revision Name : dpsd_simu
 Top-level Entity Name : dpsd_simu
 Family : Cyclone IV E
 Device : EP4CE6E22C6
 Timing Models : Final
-Total logic elements : 273 / 6,272 ( 4 % )
-    Total combinational functions : 216 / 6,272 ( 3 % )
-    Dedicated logic registers : 188 / 6,272 ( 3 % )
-Total registers : 188
+Total logic elements : 56 / 6,272 ( < 1 % )
+    Total combinational functions : 28 / 6,272 ( < 1 % )
+    Dedicated logic registers : 56 / 6,272 ( < 1 % )
+Total registers : 56
 Total pins : 51 / 92 ( 55 % )
 Total virtual pins : 0
 Total memory bits : 49,152 / 276,480 ( 18 % )

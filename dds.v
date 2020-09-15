@@ -46,8 +46,8 @@ wire [11:0]rom_address;
 
 assign rom_address=address_reg[Fword_width-1:16];
 
-
-ROM_SIN_12b_4096  ROM1(
+//assign wave_o1=rom_address;
+ROM_SIN_3  ROM1(
 	.address(rom_address),
 	.clock(clk),
 	.q(wave_o1));

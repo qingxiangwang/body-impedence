@@ -8,15 +8,15 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dD:/Workspaces/quartus/simulation/modelsim
+dE:/quartus workspace/Projects/body impedence_2/simulation/modelsim
 valt_bidir_buf
-Z0 !s110 1599656206
+Z0 !s110 1599997075
 !i10b 1
 !s100 ?bJO>;1FbXMWPeFM2gAf>3
 !s11b DjA0cXG58zARbWoVVFUm:1
 IZ5DKa3V@70EEAQ8>MlCih3
 Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dD:/Workspaces/quartus/body impedence/simulation/modelsim
+Z2 dE:/quartus workspace/Projects/body impedence/simulation/modelsim
 Z3 w1591397269
 Z4 8c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_primitives.v
 Z5 Fc:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_primitives.v
@@ -25,7 +25,7 @@ Z6 OL;L;2019.2;69
 r1
 !s85 0
 31
-Z7 !s108 1599656205.000000
+Z7 !s108 1599997074.000000
 !s107 c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_primitives.v|
 Z8 !s90 -reportprogress|300|-vlog01compat|-work|altera_ver|c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_primitives.v|
 !i113 0
@@ -230,7 +230,7 @@ R8
 R9
 R10
 vcarry
-Z12 !s110 1599656205
+Z12 !s110 1599997074
 !i10b 1
 !s100 680fDS0]Yb5aD<F>R94_N1
 Z13 !s11b lJCmW:H4_o5^laQGh7LYe0
@@ -318,7 +318,7 @@ R8
 R9
 R10
 vdff
-R12
+R0
 !i10b 1
 !s100 OaYfciQeXdhd:^]Q@i87>3
 !s11b Co=YdC9:<zXaoX`H36`BK2
@@ -340,7 +340,7 @@ R8
 R9
 R10
 vdffe
-R12
+R0
 !i10b 1
 !s100 iIVHablKCd2e2P>TfgGc_2
 !s11b iiLh?EF]RY94[Ag__iagT2
@@ -362,7 +362,7 @@ R8
 R9
 R10
 vdffea
-R12
+R0
 !i10b 1
 !s100 dI14C^1[Q1dcgM_`;FaKa1
 !s11b JIO0ni;G1nE6J?oKld6ZK1
@@ -384,7 +384,7 @@ R8
 R9
 R10
 vdffeas
-R12
+R0
 !i10b 1
 !s100 ]I6IZB=4@84<TXGhdG6<i3
 !s11b 4bh:l5<<@kO^XIHQh9T0J0
@@ -428,7 +428,7 @@ R8
 R9
 R10
 vdlatch
-R12
+R0
 !i10b 1
 !s100 Z=Ef`O`L0XT6AnDRKok3?3
 !s11b Kd7`gMCFFRZ4Y98Gg@8eU1
@@ -538,7 +538,7 @@ R8
 R9
 R10
 vlatch
-R12
+R0
 !i10b 1
 !s100 X`eTLdZnnaQNDHH[>X0V_2
 !s11b 8=bm<ig_>BS96<Y5Z6a=@0
@@ -560,7 +560,7 @@ R8
 R9
 R10
 vlut_input
-R12
+R0
 !i10b 1
 !s100 Rda7]o?GnXk]RKJkdPVKJ0
 R13
@@ -582,7 +582,7 @@ R8
 R9
 R10
 vlut_output
-R12
+R0
 !i10b 1
 !s100 E4YPP3^WTK@h;cTS?X6C^2
 R13
@@ -604,7 +604,7 @@ R8
 R9
 R10
 vopndrn
-R12
+R0
 !i10b 1
 !s100 f@4Z852a<ciYg^^Xd97:F1
 !s11b ?78>;UAB9<RF6gaY6G7Z>3
@@ -626,7 +626,7 @@ R8
 R9
 R10
 vprim_gdff
-R12
+R0
 !i10b 1
 !s100 J5Lf_SV8VM2Ke9^XffIK>0
 !s11b G^e_`fmGmNX2mVk]`BLKP0
@@ -806,7 +806,7 @@ R8
 R9
 R10
 vrow_global
-R12
+R0
 !i10b 1
 !s100 m`]MKP@<4VSJGIXQbSZBh0
 R13
@@ -828,7 +828,7 @@ R8
 R9
 R10
 vsoft
-R12
+R0
 !i10b 1
 !s100 H1@SI7O<MQ]>X_d@?[LEI1
 R14
@@ -938,7 +938,7 @@ R8
 R9
 R10
 vTRI
-R12
+R0
 !i10b 1
 !s100 CgS^a3[`@h_F:oL][5Q0U0
 !s11b <XSi24b?_PF?Gj`XRflLP0

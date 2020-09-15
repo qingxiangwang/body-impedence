@@ -1,5 +1,5 @@
 Assembler report for dpsd_simu
-Wed Sep 09 20:55:47 2020
+Sun Sep 13 19:27:38 2020
 Quartus Prime Version 20.1.0 Build 711 06/05/2020 SJ Lite Edition
 
 
@@ -9,10 +9,9 @@ Quartus Prime Version 20.1.0 Build 711 06/05/2020 SJ Lite Edition
   1. Legal Notice
   2. Assembler Summary
   3. Assembler Settings
-  4. Assembler Encrypted IP Cores Summary
-  5. Assembler Generated Files
-  6. Assembler Device Options: D:/Workspaces/quartus/body impedence/output_files/dpsd_simu.sof
-  7. Assembler Messages
+  4. Assembler Generated Files
+  5. Assembler Device Options: E:/quartus workspace/Projects/body impedence/output_files/dpsd_simu.sof
+  6. Assembler Messages
 
 
 
@@ -39,7 +38,7 @@ https://fpgasoftware.intel.com/eula.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Wed Sep 09 20:55:47 2020 ;
+; Assembler Status      ; Successful - Sun Sep 13 19:27:38 2020 ;
 ; Revision Name         ; dpsd_simu                             ;
 ; Top-level Entity Name ; dpsd_simu                             ;
 ; Family                ; Cyclone IV E                          ;
@@ -54,33 +53,23 @@ https://fpgasoftware.intel.com/eula.
 +--------+---------+---------------+
 
 
-+------------------------------------------------+
-; Assembler Encrypted IP Cores Summary           ;
-+--------+------------------------+--------------+
-; Vendor ; IP Core Name           ; License Type ;
-+--------+------------------------+--------------+
-; Altera ; Signal Tap (6AF7 BCE1) ; Licensed     ;
-; Altera ; Signal Tap (6AF7 BCEC) ; Licensed     ;
-+--------+------------------------+--------------+
++-------------------------------------------------------------------------+
+; Assembler Generated Files                                               ;
++-------------------------------------------------------------------------+
+; File Name                                                               ;
++-------------------------------------------------------------------------+
+; E:/quartus workspace/Projects/body impedence/output_files/dpsd_simu.sof ;
++-------------------------------------------------------------------------+
 
 
-+-----------------------------------------------------------------+
-; Assembler Generated Files                                       ;
-+-----------------------------------------------------------------+
-; File Name                                                       ;
-+-----------------------------------------------------------------+
-; D:/Workspaces/quartus/body impedence/output_files/dpsd_simu.sof ;
-+-----------------------------------------------------------------+
-
-
-+-------------------------------------------------------------------------------------------+
-; Assembler Device Options: D:/Workspaces/quartus/body impedence/output_files/dpsd_simu.sof ;
-+----------------+--------------------------------------------------------------------------+
-; Option         ; Setting                                                                  ;
-+----------------+--------------------------------------------------------------------------+
-; JTAG usercode  ; 0x0017CAD6                                                               ;
-; Checksum       ; 0x0017CAD6                                                               ;
-+----------------+--------------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------+
+; Assembler Device Options: E:/quartus workspace/Projects/body impedence/output_files/dpsd_simu.sof ;
++----------------+----------------------------------------------------------------------------------+
+; Option         ; Setting                                                                          ;
++----------------+----------------------------------------------------------------------------------+
+; JTAG usercode  ; 0x0015DC0E                                                                       ;
+; Checksum       ; 0x0015DC0E                                                                       ;
++----------------+----------------------------------------------------------------------------------+
 
 
 +--------------------+
@@ -89,13 +78,13 @@ https://fpgasoftware.intel.com/eula.
 Info: *******************************************************************
 Info: Running Quartus Prime Assembler
     Info: Version 20.1.0 Build 711 06/05/2020 SJ Lite Edition
-    Info: Processing started: Wed Sep 09 20:55:45 2020
+    Info: Processing started: Sun Sep 13 19:27:36 2020
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off dpsd_simu -c dpsd_simu
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus Prime Assembler was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 574 megabytes
-    Info: Processing ended: Wed Sep 09 20:55:47 2020
+    Info: Peak virtual memory: 4687 megabytes
+    Info: Processing ended: Sun Sep 13 19:27:38 2020
     Info: Elapsed time: 00:00:02
     Info: Total CPU time (on all processors): 00:00:02
 

@@ -33,15 +33,15 @@ if {[file exists rtl_work]} {
 vlib rtl_work
 vmap work rtl_work
 
-vlog -vlog01compat -work work +incdir+D:/Workspaces/quartus/body\ impedence {D:/Workspaces/quartus/body impedence/dpsd_simu.v}
-vlog -vlog01compat -work work +incdir+D:/Workspaces/quartus/body\ impedence {D:/Workspaces/quartus/body impedence/dds.v}
-vlog -vlog01compat -work work +incdir+D:/Workspaces/quartus/body\ impedence {D:/Workspaces/quartus/body impedence/ROM_SIN_12b_4096.v}
+vlog -vlog01compat -work work +incdir+E:/quartus\ workspace/Projects/body\ impedence {E:/quartus workspace/Projects/body impedence/dpsd_simu.v}
+vlog -vlog01compat -work work +incdir+E:/quartus\ workspace/Projects/body\ impedence {E:/quartus workspace/Projects/body impedence/dds.v}
+vlog -vlog01compat -work work +incdir+E:/quartus\ workspace/Projects/body\ impedence {E:/quartus workspace/Projects/body impedence/ROM_SIN_3.v}
 
-vlog -vlog01compat -work work +incdir+D:/Workspaces/quartus/body\ impedence/simulation/modelsim {D:/Workspaces/quartus/body impedence/simulation/modelsim/dpsd_simu.vt}
+vlog -vlog01compat -work work +incdir+E:/quartus\ workspace/Projects/body\ impedence/simulation/modelsim {E:/quartus workspace/Projects/body impedence/simulation/modelsim/dpsd_simu.vt}
 
 vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  dpsd_simu_vlg_tst
 
 add wave *
 view structure
 view signals
-run -all
+run 10 ms

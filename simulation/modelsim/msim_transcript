@@ -1,4 +1,4 @@
-# Reading C:/modelsim64_2019.2/tcl/vsim/pref.tcl
+# Reading C:/modeltech64_2019.2/tcl/vsim/pref.tcl
 # //  ModelSim SE-64 2019.2 Apr 17 2019
 # //
 # //  Copyright 1991-2019 Mentor Graphics Corporation
@@ -22,11 +22,10 @@
 # vmap altera_ver ./verilog_libs/altera_ver
 # Model Technology ModelSim SE-64 vmap 2019.2 Lib Mapping Utility 2019.04 Apr 17 2019
 # vmap altera_ver ./verilog_libs/altera_ver 
-# Copying C:/modelsim64_2019.2/win64/../modelsim.ini to modelsim.ini
-# Modifying modelsim.ini
+# Modifying C:/modeltech64_2019.2/win64/../modelsim.ini
 # vlog -vlog01compat -work altera_ver {c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_primitives.v}
 # Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
-# Start time: 20:56:45 on Sep 09,2020
+# Start time: 19:37:54 on Sep 13,2020
 # vlog -reportprogress 300 -vlog01compat -work altera_ver c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_primitives.v 
 # -- Compiling module global
 # -- Compiling module carry
@@ -108,7 +107,7 @@
 # 	alt_iobuf_diff
 # 	alt_bidir_diff
 # 	alt_bidir_buf
-# End time: 20:56:46 on Sep 09,2020, Elapsed time: 0:00:01
+# End time: 19:37:55 on Sep 13,2020, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/lpm_ver
@@ -116,10 +115,10 @@
 # vmap lpm_ver ./verilog_libs/lpm_ver
 # Model Technology ModelSim SE-64 vmap 2019.2 Lib Mapping Utility 2019.04 Apr 17 2019
 # vmap lpm_ver ./verilog_libs/lpm_ver 
-# Modifying modelsim.ini
+# Modifying C:/modeltech64_2019.2/win64/../modelsim.ini
 # vlog -vlog01compat -work lpm_ver {c:/intelfpga_lite/20.1/quartus/eda/sim_lib/220model.v}
 # Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
-# Start time: 20:56:46 on Sep 09,2020
+# Start time: 19:37:56 on Sep 13,2020
 # vlog -reportprogress 300 -vlog01compat -work lpm_ver c:/intelfpga_lite/20.1/quartus/eda/sim_lib/220model.v 
 # -- Compiling module LPM_MEMORY_INITIALIZATION
 # -- Compiling module LPM_HINT_EVALUATION
@@ -183,7 +182,7 @@
 # 	lpm_inpad
 # 	lpm_outpad
 # 	lpm_bipad
-# End time: 20:56:46 on Sep 09,2020, Elapsed time: 0:00:00
+# End time: 19:37:56 on Sep 13,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/sgate_ver
@@ -191,10 +190,10 @@
 # vmap sgate_ver ./verilog_libs/sgate_ver
 # Model Technology ModelSim SE-64 vmap 2019.2 Lib Mapping Utility 2019.04 Apr 17 2019
 # vmap sgate_ver ./verilog_libs/sgate_ver 
-# Modifying modelsim.ini
+# Modifying C:/modeltech64_2019.2/win64/../modelsim.ini
 # vlog -vlog01compat -work sgate_ver {c:/intelfpga_lite/20.1/quartus/eda/sim_lib/sgate.v}
 # Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
-# Start time: 20:56:47 on Sep 09,2020
+# Start time: 19:37:57 on Sep 13,2020
 # vlog -reportprogress 300 -vlog01compat -work sgate_ver c:/intelfpga_lite/20.1/quartus/eda/sim_lib/sgate.v 
 # -- Compiling module oper_add
 # -- Compiling module oper_addsub
@@ -236,7 +235,7 @@
 # 	oper_decoder
 # 	oper_bus_mux
 # 	oper_latch
-# End time: 20:56:47 on Sep 09,2020, Elapsed time: 0:00:00
+# End time: 19:37:57 on Sep 13,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/altera_mf_ver
@@ -244,10 +243,10 @@
 # vmap altera_mf_ver ./verilog_libs/altera_mf_ver
 # Model Technology ModelSim SE-64 vmap 2019.2 Lib Mapping Utility 2019.04 Apr 17 2019
 # vmap altera_mf_ver ./verilog_libs/altera_mf_ver 
-# Modifying modelsim.ini
+# Modifying C:/modeltech64_2019.2/win64/../modelsim.ini
 # vlog -vlog01compat -work altera_mf_ver {c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_mf.v}
 # Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
-# Start time: 20:56:47 on Sep 09,2020
+# Start time: 19:37:58 on Sep 13,2020
 # vlog -reportprogress 300 -vlog01compat -work altera_mf_ver c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_mf.v 
 # -- Compiling module lcell
 # -- Compiling module ALTERA_MF_MEMORY_INITIALIZATION
@@ -377,7 +376,7 @@
 # 	alt_fault_injection
 # 	sld_virtual_jtag_basic
 # 	altsource_probe
-# End time: 20:56:48 on Sep 09,2020, Elapsed time: 0:00:01
+# End time: 19:37:59 on Sep 13,2020, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/altera_lnsim_ver
@@ -385,10 +384,10 @@
 # vmap altera_lnsim_ver ./verilog_libs/altera_lnsim_ver
 # Model Technology ModelSim SE-64 vmap 2019.2 Lib Mapping Utility 2019.04 Apr 17 2019
 # vmap altera_lnsim_ver ./verilog_libs/altera_lnsim_ver 
-# Modifying modelsim.ini
+# Modifying C:/modeltech64_2019.2/win64/../modelsim.ini
 # vlog -sv -work altera_lnsim_ver {c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_lnsim.sv}
 # Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
-# Start time: 20:56:48 on Sep 09,2020
+# Start time: 19:38:00 on Sep 13,2020
 # vlog -reportprogress 300 -sv -work altera_lnsim_ver c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_lnsim.sv 
 # -- Compiling package altera_lnsim_functions
 # -- Compiling package altera_generic_pll_functions
@@ -471,7 +470,7 @@
 # 	altera_iopll
 # 	fourteennm_altera_iopll
 # 	fourteennm_simple_iopll
-# End time: 20:56:49 on Sep 09,2020, Elapsed time: 0:00:01
+# End time: 19:38:01 on Sep 13,2020, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/cycloneive_ver
@@ -479,10 +478,10 @@
 # vmap cycloneive_ver ./verilog_libs/cycloneive_ver
 # Model Technology ModelSim SE-64 vmap 2019.2 Lib Mapping Utility 2019.04 Apr 17 2019
 # vmap cycloneive_ver ./verilog_libs/cycloneive_ver 
-# Modifying modelsim.ini
+# Modifying C:/modeltech64_2019.2/win64/../modelsim.ini
 # vlog -vlog01compat -work cycloneive_ver {c:/intelfpga_lite/20.1/quartus/eda/sim_lib/cycloneive_atoms.v}
 # Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
-# Start time: 20:56:49 on Sep 09,2020
+# Start time: 19:38:02 on Sep 13,2020
 # vlog -reportprogress 300 -vlog01compat -work cycloneive_ver c:/intelfpga_lite/20.1/quartus/eda/sim_lib/cycloneive_atoms.v 
 # -- Compiling UDP CYCLONEIVE_PRIM_DFFE
 # -- Compiling UDP CYCLONEIVE_PRIM_DFFEAS
@@ -560,7 +559,7 @@
 # 	cycloneive_jtag
 # 	cycloneive_crcblock
 # 	cycloneive_oscillator
-# End time: 20:56:49 on Sep 09,2020, Elapsed time: 0:00:00
+# End time: 19:38:02 on Sep 13,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # if {[file exists rtl_work]} {
@@ -570,76 +569,36 @@
 # vmap work rtl_work
 # Model Technology ModelSim SE-64 vmap 2019.2 Lib Mapping Utility 2019.04 Apr 17 2019
 # vmap work rtl_work 
-# Modifying modelsim.ini
+# Modifying C:/modeltech64_2019.2/win64/../modelsim.ini
 # 
-# vlog -vlog01compat -work work +incdir+D:/Workspaces/quartus/body\ impedence {D:/Workspaces/quartus/body impedence/dpsd_simu.v}
+# vlog -vlog01compat -work work +incdir+E:/quartus\ workspace/Projects/body\ impedence {E:/quartus workspace/Projects/body impedence/dpsd_simu.v}
 # Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
-# Start time: 20:56:50 on Sep 09,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/Workspaces/quartus/body impedence" D:/Workspaces/quartus/body impedence/dpsd_simu.v 
+# Start time: 19:38:03 on Sep 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/quartus workspace/Projects/body impedence" E:/quartus workspace/Projects/body impedence/dpsd_simu.v 
 # -- Compiling module dpsd_simu
 # 
 # Top level modules:
 # 	dpsd_simu
-# End time: 20:56:50 on Sep 09,2020, Elapsed time: 0:00:00
+# End time: 19:38:04 on Sep 13,2020, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+D:/Workspaces/quartus/body\ impedence {D:/Workspaces/quartus/body impedence/dds.v}
+# vlog -vlog01compat -work work +incdir+E:/quartus\ workspace/Projects/body\ impedence {E:/quartus workspace/Projects/body impedence/dds.v}
 # Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
-# Start time: 20:56:50 on Sep 09,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/Workspaces/quartus/body impedence" D:/Workspaces/quartus/body impedence/dds.v 
+# Start time: 19:38:04 on Sep 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/quartus workspace/Projects/body impedence" E:/quartus workspace/Projects/body impedence/dds.v 
 # -- Compiling module dds
 # 
 # Top level modules:
 # 	dds
-# End time: 20:56:50 on Sep 09,2020, Elapsed time: 0:00:00
+# End time: 19:38:04 on Sep 13,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+D:/Workspaces/quartus/body\ impedence {D:/Workspaces/quartus/body impedence/ROM_SIN_12b_4096.v}
+# vlog -vlog01compat -work work +incdir+E:/quartus\ workspace/Projects/body\ impedence {E:/quartus workspace/Projects/body impedence/ROM_SIN_3.v}
 # Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
-# Start time: 20:56:50 on Sep 09,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/Workspaces/quartus/body impedence" D:/Workspaces/quartus/body impedence/ROM_SIN_12b_4096.v 
-# -- Compiling module ROM_SIN_12b_4096
+# Start time: 19:38:04 on Sep 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/quartus workspace/Projects/body impedence" E:/quartus workspace/Projects/body impedence/ROM_SIN_3.v 
+# -- Compiling module ROM_SIN_3
 # 
 # Top level modules:
-# 	ROM_SIN_12b_4096
-# End time: 20:56:50 on Sep 09,2020, Elapsed time: 0:00:00
+# 	ROM_SIN_3
+# End time: 19:38:04 on Sep 13,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
-# vlog -vlog01compat -work work +incdir+D:/Workspaces/quartus/body\ impedence/simulation/modelsim {D:/Workspaces/quartus/body impedence/simulation/modelsim/dpsd_simu_vlg_tst.vt}
-# Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
-# Start time: 20:56:50 on Sep 09,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/Workspaces/quartus/body impedence/simulation/modelsim" D:/Workspaces/quartus/body impedence/simulation/modelsim/dpsd_simu_vlg_tst.vt 
-# -- Compiling module dpsd_simu_vlg_tst
-# 
-# Top level modules:
-# 	dpsd_simu_vlg_tst
-# End time: 20:56:50 on Sep 09,2020, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# 
-# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  dpsd_simu_vlg_tst
-# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" dpsd_simu_vlg_tst 
-# Start time: 20:56:50 on Sep 09,2020
-# ** Note: (vsim-3812) Design is being optimized...
-# Loading work.dpsd_simu_vlg_tst(fast)
-# Loading work.dpsd_simu(fast)
-# Loading work.dds(fast)
-# Loading work.ROM_SIN_12b_4096(fast)
-# Loading altera_mf_ver.altsyncram(fast)
-# Loading altera_mf_ver.altsyncram_body(fast)
-# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES(fast)
-# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION(fast)
-# 
-# add wave *
-# view structure
-# .main_pane.structure.interior.cs.body.struct
-# view signals
-# .main_pane.objects.interior.cs.body.tree
-# run 10 ms
-# Running testbench
-# ** Warning: (vsim-3534) [FOFIR] - Failed to open file "./output_files/ROM_SIN_12b_4096.mif" for reading.
-# No such file or directory. (errno = ENOENT)    : c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_mf.v(264)
-#    Time: 0 ps  Iteration: 0  Instance: /dpsd_simu_vlg_tst/i1/ddsi0/ROM1/altsyncram_component/m_default/altsyncram_inst
-# ERROR: cannot read ./output_files/ROM_SIN_12b_4096.mif.
-# ** Warning: (vsim-7) Failed to open readmem file "./output_files/ROM_SIN_12b_4096.ver" in read mode.
-# No such file or directory. (errno = ENOENT)    : c:/intelfpga_lite/20.1/quartus/eda/sim_lib/altera_mf.v(48977)
-#    Time: 0 ps  Iteration: 0  Instance: /dpsd_simu_vlg_tst/i1/ddsi0/ROM1/altsyncram_component/m_default/altsyncram_inst
-# End time: 20:58:20 on Sep 09,2020, Elapsed time: 0:01:30
-# Errors: 0, Warnings: 2
